@@ -18,6 +18,7 @@
             android:orientation="horizontal">
 
             <LinearLayout
+                android:id="@+id/gender_male_layout"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_margin="16dp"
@@ -38,6 +39,7 @@
             </LinearLayout>
 
             <LinearLayout
+                android:id="@+id/gender_female_layout"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_margin="16dp"
